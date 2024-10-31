@@ -32,5 +32,5 @@ Cenownik to aplikacja napisana w C++ z interfejsem graficznym Qt, służąca do 
 1. **Klonowanie repozytorium**
 
    ```bash
-   git clone https://github.com/yourusername/cenownik.git
+   git clone https://github.com/mateuszdaniw/cenownik.git
    cd cenownik
